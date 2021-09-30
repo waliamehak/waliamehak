@@ -1,4 +1,4 @@
-### "Hello, World!" 👋
+### "Hello, World!"
 
 - 🔭 I’m Mehak Walia, a recent graduate with a Master's degree in Computer Science.  
 - 🌱 I’m actively seeking software developer roles across Canada.  
