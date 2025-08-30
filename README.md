@@ -1,7 +1,5 @@
-### Always curious, always learning, and forever inspired to create things that serve purpose to others. 
+### Code, create, contribute
 
-- 🔭 Hi, I’m Mehak Walia, a recent graduate with a Master's degree in Computer Science.  
-- 🎯 I am a focussed individual, a very quick learner and love to figure out things on my own.  
-- 🌱 Over the 7+ years of my education in CS, I have built and collaborated on numerous projects using C++, Java, JavaScript, Python, Kotlin, Django, React, MongoDB, MySQL...  
-- 🚧 I’m currently building a personal portfolio using React.   
-- 📫 Here's the link to my portfolio (MVP): https://waliamehak.netlify.app/  
+- 🔭 Hi, I’m Mehak Walia, an ex-Amazon software engineer with hands-on experience in full-stack development 
+- 🌱 Currently having fun contributing to open-source and collaborating on real-world projects.
+- 🎯 Building an end user application while eperimenting with new technologies and architecture patterns.
